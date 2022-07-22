@@ -1,4 +1,4 @@
-[![Python package](https://github.com/sandialabs/sbovqaopt/workflows/Python%20package/badge.svg)](https://github.com/sandialabs/sbovqaopt/actions/)
+[![Python package](https://github.com/sandialabs/sbovqaopt/actions/workflows/python-package.yml/badge.svg)](https://github.com/sandialabs/sbovqaopt/actions/workflows/python-package.yml)
 
 # sbovqaopt: Surrogate-based optimizer for variational quantum algorithms
 
