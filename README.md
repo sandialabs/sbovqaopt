@@ -2,7 +2,9 @@
 
 # sbovqaopt: Surrogate-based optimizer for variational quantum algorithms
 
-The `sbovqaopt` package provides a surrogate-based optimizer for variational quantum algorithms as introduced in [arXiv:2204.05451](https://arxiv.org/abs/2204.05451).
+The `sbovqaopt` package provides a surrogate-based optimizer for variational quantum algorithms as introduced in
+[Phys. Rev. A 107, 032415](https://doi.org/10.1103/PhysRevA.107.032415),
+[arXiv:2204.05451](https://arxiv.org/abs/2204.05451).
 
 
 ## Installation
@@ -32,4 +34,4 @@ pip install -e .
 
 If you use or refer to this project in any publication, please cite the corresponding paper:
 
-> Ryan Shaffer, Lucas Kocia, Mohan Sarovar. _Surrogate-based optimization for variational quantum algorithms._ [arXiv:2204.05451](https://arxiv.org/abs/2204.05451) (2022).
+> Ryan Shaffer, Lucas Kocia, Mohan Sarovar. _Surrogate-based optimization for variational quantum algorithms._ Phys. Rev. A 107, 032415 (2023). https://doi.org/10.1103/PhysRevA.107.032415
